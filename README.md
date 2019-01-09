@@ -13,9 +13,10 @@ To run this application, complete the following steps:
 1. Navigate to the following url: https://github.com/ccloops/vue-demo
 2. Clone the repo to your local machine: `git clone https://github.com/ccloops/vue-demo`
 3. Navigate into the repo: `cd vue-demo`
-3. Run the command: `npm install`
-4. Run the command: `live-server`
-5. You should be automatically redirected to your browser. If not, in your browser navigate to: http://localhost:8080
+4. Make sure that you have Node.js installed: https://nodejs.org/en/
+5. Run the command: `npm install`
+6. Run the command: `live-server`
+7. You should be automatically redirected to your browser. If not, in your browser navigate to: http://localhost:8080
 
 
 ## Built With
