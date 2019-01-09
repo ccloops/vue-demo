@@ -106,7 +106,7 @@ Vue.component('product', {
   },
   mounted() { // life cycle hook
     eventBus.$on('review-submitted', productReview => {
-      this.reviews.push(productReview)
+      this.reviews.push(productReview) 
     })
   }
 })
