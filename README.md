@@ -1,1 +1,2 @@
-# vue-demo
+# Vue Mastery Socks Demo
+
